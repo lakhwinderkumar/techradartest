@@ -210,3 +210,5 @@ Zero Trust Architecture,Assess,languages-and-frameworks,TRUE,"<p><span data-cont
 <p><span data-contrast=""none"">Applications&nbsp;- applying Zero Trust to applications removes implicit trust with various components of applications when they talk to each other. A fundamental concept of Zero Trust is that applications cannot be trusted and continuous monitoring at runtime is necessary to validate their behaviour.</span><span data-ccp-props=""{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"">&nbsp;</span></p>
 <p><span data-contrast=""none"">Infrastructure&nbsp;- everything infrastructure-related&mdash;routers, switches, cloud, IoT, and supply chain&mdash;must be addressed with a Zero Trust approach.</span></p>"
 Zanzibar,Trial,Techniques,TRUE,
+Jquery,Hold,languages-and-frameworks,FALSE,No more using this
+Waterfall,Hold,Techniques,FALSE,No more using this
